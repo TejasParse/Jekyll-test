@@ -1,0 +1,87 @@
+{
+    "Language":"English",
+    "htmlLangAtt":"en",
+    "H1":"My Cubing",
+    "H2":"Simplest online alarm  clock to set alarms. Do not close browser tab.",
+    "TITLE": "My Cubing",
+    "META": "Easiest way to set alarm for $variable minutes from now. Choose sound for alarm from multiple options.",
+    "keywords":"key1,key2,key3,key4",
+    "LABEL": "DOCX to PDF",
+    "BREADCRUMB_LABEL": "DOCX TO PDF",
+    "color": "grey",
+    "height": "400px",
+    "img":"/assets/bulb.svg",
+    "imgwidth":"40px",
+    "imgheight":"40px",
+    "imgalt":"altvalue",
+    "TEXTUAL_CONTENT": [
+      {
+      "priority": 1,
+      "logoUrl": "/assets/bulb.svg",
+      "header": "Simple to use",
+      "content": "Setalarmforme.com provides simplest way to set alarms for X minutes from now."
+      },
+      {
+      "priority": 1,
+      "logoUrl": "/assets/guaranty.svg",
+      "header": "Accurate alarms",
+      "content": "Alarms setup by Setalarmforme.com are accurate. You can rely on us completely to start alarm after $variable minutes."
+      },
+      {
+      "priority": 1,
+      "logoUrl": "/assets/support.svg",
+      "header": "Cross platform",
+      "content": "You can setup alarm for $variable minutes from now on any operating system, like Windows/Mac/Linux/Android/iPhone."
+      },
+      {
+      "priority": 1,
+      "logoUrl": "/assets/protect.svg",
+      "header": "Secure and trustworthy",
+      "content": "Setalarmforme.com does not require users to login for setting alarm for $variable minutes from now. No user information is send to our servers."
+      },
+      {
+      "priority": 1,
+      "logoUrl": "/assets/easy.svg",
+      "header": "All timezones supported",
+      "content": "Using Setalarmforme.com you can set alarm to start after $variable minutes from current time, in any time zone."
+      },
+      {
+      "priority": 1,
+      "logoUrl": "/assets/cloud.svg",
+      "header": "No need to install any software",
+      "content": "Setalarmforme.com is a cloud and web based application. You do not need to install any software to use Setalarmforme.com while setting alarms for $variable minutes from now."
+      }
+    ],
+    "HOW_TO_CONTENT": {
+      "logoImageUrl": "/assets/pdf.svg",
+      "heading": "How to set alarm for $variable minutes:",
+      "steps": [
+      "Click on set alarm",
+      "Set $variable minutes for alarm.",
+      "Choose sound of your choice.",
+      "Click submit to set alarm, that's it !."
+      ]
+    },
+    "FAQ": [
+      {
+      "question": "How many seconds from now, will the alarm ring ?",
+      "answer": "When you setup alarm for $variable minutes from now, the alarm will ring after { % $variable * 60 % } seconds."
+      },
+      {
+      "question": "Can I rely on Setalarmforme.com  to setup alarm for $variable minutes from now ?",
+      "answer": "If you have set alarm for $variable minutes from now, you can be 100% sure that alarm will ring after $variable minutes. You can trust us completely."
+      },
+      {
+      "question": "What will happen to the alarm that I have set, if I refresh the browser ?",
+      "answer": "The alarm will still ring after $variable minutes, even if you refresh the browser, since we store the information in browser's local cache."
+      },
+      {
+      "question": "What will happen to the alarm that I have set, if I close the tab of browser in which Setalarmforme.com is opened ?",
+      "answer": "It will be gone. The alarm will not ring after $variable minutes, if you close the tab."
+      },
+      {
+      "question": "What will happen to the alarm that I have set, if I close the browser ?",
+      "answer": "It will be gone. The alarm will not ring after $variable minutes, if you close the browser."
+      }
+      ]
+  }

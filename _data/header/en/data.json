@@ -1,0 +1,18 @@
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "/assets/images/wca.svg",
+  "navItems": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "My Cubing",
+      "url": "/cubing"
+    }
+  ]
+}
